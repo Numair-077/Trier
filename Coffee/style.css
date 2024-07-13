@@ -1,0 +1,21 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    background-color: white;
+}
+h1{
+    font-size: 150px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(opp.avif);
+    background-size: cover;
+    font-family: "Abril Fatface", cursive;
+    background-clip: text;
+    -webkit-background-clip:text;
+    color: transparent;
+}
